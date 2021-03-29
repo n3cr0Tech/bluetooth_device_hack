@@ -1,0 +1,5 @@
+enum-compat==0.0.3
+pexpect>=4.8.0
+ptyprocess==0.7.0
+pygatt==4.0.5
+pyserial==3.5
